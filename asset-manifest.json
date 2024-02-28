@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dc109691.css",
+    "main.js": "/portfolio/static/js/main.17a7889e.js",
+    "static/js/415.fc063c41.chunk.js": "/portfolio/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/portfolio/static/js/787.f6e65957.chunk.js",
+    "static/media/Curriculo.png": "/portfolio/static/media/Curriculo.7bb53482711b1f3cfdad.png",
+    "static/media/mgsis.png": "/portfolio/static/media/mgsis.cea324a382bb1e7615c2.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/avatar.jpeg": "/portfolio/static/media/avatar.9c36d20007cc25e57b8e.jpeg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/git.png": "/portfolio/static/media/git.f7f28afe30455fda72e7.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.b76a3110da1d0899daee.png",
+    "static/media/afra.png": "/portfolio/static/media/afra.c93702fe5f2c967d1db6.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.dc109691.css.map": "/portfolio/static/css/main.dc109691.css.map",
+    "main.17a7889e.js.map": "/portfolio/static/js/main.17a7889e.js.map",
+    "415.fc063c41.chunk.js.map": "/portfolio/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/portfolio/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc109691.css",
+    "static/js/main.17a7889e.js"
+  ]
+}
